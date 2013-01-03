@@ -1,15 +1,12 @@
 ##xerorails
 ===
 
-Xero rails application built using xeroizer gem.
+Xero rails application built using xeroizer gem. This can be used to perform OAuth 3-legged.
 
-###This can be used to perform OAuth 3-legged.
-
-'''
-###Xeroizer
+```
+Xeroizer
 https://rubygems.org/gems/xeroizer
-'''
-
+```
 
 
 This is a rails application and so the after the 3-legged auth is complete, a web page is shown with the oauth_token, oauth_secret, oauth_verifier values.
